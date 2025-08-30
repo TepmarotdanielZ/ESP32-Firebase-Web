@@ -15,17 +15,17 @@
 #include "addons/RTDBHelper.h"
 
 /* INSERT YOUR NETWORK CREDENTIALS */ 
-#define WIFI_SSID "Neatic"
-#define WIFI_PASSWORD "1234567890"
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 /* INSERT FIREBASE PROJECT API KEY */ 
-#define API_KEY "AIzaSyBbVaLC4S0VGaovgCQQOl_l4eTZf85bBIA"
+#define API_KEY "YOUR_API_KEY"
 
 /* INSERT AUTHORIZED EMAIL AND CORRESPONDING PASSWORD */ 
-#define USER_EMAIL "tepmarot050403@gmail.com"
-#define USER_PASSWORD "@-Tepmarot050403@&$#%"
+#define USER_EMAIL "YOUR_EMAIL"
+#define USER_PASSWORD "YOUR_EMAIL_SSIDPASSWORD"
 
-#define DATABASE_URL "https://steamxlab-v2-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define DATABASE_URL "YOUR_DATABASE_SSIDURL"
 
 /* DEFINE FIREBASE OBJECTS */ 
 FirebaseData fbdo;
@@ -45,7 +45,7 @@ String ledPath;
 float temperature;
 float humidity;
 float pressure;
-const int led = 14; /* LED PIN */ 
+const int led = 13; /* LED PIN */ 
 
 /* TIMER VARIABLES (SEND NEW READINGS EVERY 2 SECONDS) */ 
 unsigned long sendDataPrevMillis = 0;
