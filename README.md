@@ -137,7 +137,9 @@ firebase login
 firebase init
 ```
 
-* **`26`**: You’ll be asked if you want to initialize a Firebase project in the current directory. Enter Y and hit Enter.
+* **`26`**: You’ll be asked if you want to initialize a Firebase project in the current directory. Enter **`Y`** and hit **`Enter`**.
 
 ![1](images/19.png)
+
+![1](images/20.png)
 
