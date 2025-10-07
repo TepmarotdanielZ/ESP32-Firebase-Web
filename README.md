@@ -143,3 +143,17 @@ firebase init
 
 ![1](images/20.png)
 
+* Then, use they up and down arrows and the Space key to select the options. Select the following options:
+
+* **`28`**: RealTime Database: Configure security rules file for Realtime Database and (optionally) provision default instance.
+
+![1](images/21.png)
+
+* **`29`**: Hosting: Configure files for Firebase Hosting and (optionally) set up GitHub Action deploys.
+  
+* The selected options will show up with a green asterisk. Then, hit Enter.
+  
+![1](images/22.png)
+
+
+
