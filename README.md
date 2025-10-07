@@ -165,3 +165,7 @@ firebase init
   * In short, this section confirms that you're initializing a Firebase project with Hosting and Realtime Database features selected.
 
 ![1](images/23.png)
+
+* **`31`**: Select the option **`Use an existing project`** —it should be highlighted in blue—then, hit **`Enter`**.
+
+![1](images/24.png)
