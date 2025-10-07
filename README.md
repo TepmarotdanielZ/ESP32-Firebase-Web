@@ -20,3 +20,6 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/3.png)
 
+* Click the **`Install`** button to begin installing Visual Studio Code on your computer.”
+
+![1](images/4.png)
