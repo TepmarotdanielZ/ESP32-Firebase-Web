@@ -6,4 +6,5 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ## II. INSTALLING REQUIRED SOFTWARE
 **1. VISUAL STUDIO CODE**
-**'Download for Windows'** button — click here to start downloading Visual Studio Code for your Windows system.
+
+* **`Download for Windows`** button — click here to start downloading Visual Studio Code for your Windows system.
