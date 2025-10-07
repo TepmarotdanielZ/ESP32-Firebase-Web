@@ -169,3 +169,62 @@ firebase init
 * **`31`**: Select the option **`Use an existing project`** —it should be highlighted in blue—then, hit **`Enter`**.
 
 ![1](images/24.png)
+
+* **`32`**: After that, select the Firebase project for this directory — it should be the one you previously created. In my case, it is called **`steamxlab-bdb5c (STRAMxLAB)`**. Then hit Enter to confirm your selection. (If you have multiple Firebase projects, make sure to choose the correct one associated with your ESP32 or web dashboard setup.)
+
+![1](images/25.png)
+
+* **`33`**: Selected project: **`steamxlab-bdb5c (STRAMxLAB)`**
+
+![1](images/26.png)
+
+* **`34`**: "What do you want to use as your public directory? **`public`**"
+  * Meaning:
+    * You've chosen (or accepted the default) folder named public to serve your web app’s static files (HTML, CSS, JS) when deploying with Firebase Hosting.
+      
+![1](images/27.png)
+
+* **`35`**:  Configure as a single-page app (rewrite urls to /index.html)? **`No`**
+
+![1](images/28.png)
+
+* **`36`**:  Set up automatic builds and deploys with GitHub? **`No`**
+
+![1](images/29.png)
+
+![1](images/30.png)
+
+* **`38`**: This line shows the log entry “Writing configuration info to **`firebase.json`**” indicating that the Firebase setup is writing its configuration file as part of initialization.
+  
+* **`39`**: This line indicates the completion of the Firebase initialization, i.e., “Firebase initialization complete!” confirming that the Firebase project is now ready to use
+
+![1](images/31.png)
+
+* **`40`**: Highlights the left Explorer/Project tree showing the opened files and folders. It indicates the current project structure (firebase web app) with folders like public, .firebase, .gitignore, and firebase.json
+
+![1](images/32.png)
+
+* **`42`**: To check if everything went as expected, run the following command on the VS Code Terminal window.
+
+```cpp
+firebase deploy
+```
+
+![1](images/33.png)
+
+* **`43`**: Marks the final line in the terminal: “Deploy complete!” (or a closely related deploy finished message).
+* This indicates that the deployment process finished successfully and the project is now live.
+
+![1](images/34.png)
+
+* **`44`**: After deploying, you should get your Hosting URL. Go to that URL. You should get access to a similar web page.
+
+![1](images/35.png)
+
+This web page is built using the files placed in the public folder of your Firebase project.
+
+You can access that web page from anywhere in the world. Now, the idea is to change the files in the public folder to show your own web page instead of that one.
+
+
+
+
