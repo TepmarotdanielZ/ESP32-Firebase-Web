@@ -11,27 +11,27 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/1.png)
 
-* the steps to continue the installation — first, select **`I accept the agreement`** (box 2)
-* then click **`Next >`** (box 3) to proceed with installing Visual Studio Code.
+* 2: The steps to continue the installation — first, select **`I accept the agreement`** 
+* 3: Then click **`Next >`**  to proceed with installing Visual Studio Code.
 
 ![1](images/2.png)
 
-* The step to select additional tasks — check options like **`Create a desktop icon`** and **`Add to PATH`**, then click **`Next >`** to continue the Visual Studio Code installation.
+* 4: The step to select additional tasks — check options like **`Create a desktop icon`** and **`Add to PATH`**, then click **`Next >`** to continue the Visual Studio Code installation.
 
 ![1](images/3.png)
 
-* Click the **`Install`** button to begin installing Visual Studio Code on your computer.”
+* 5: Click the **`Install`** button to begin installing Visual Studio Code on your computer.”
 
 ![1](images/4.png)
 
-* Select the **`FIREBASE WEB APP`** folder to open your Firebase project directory.
+* 6: Select the **`FIREBASE WEB APP`** folder to open your Firebase project directory.
 
 ![1](images/5.png)
 
-* Click the Visual Studio Code icon on the taskbar to open VS Code
+* 7: Click the Visual Studio Code icon on the taskbar to open VS Code
 
 ![1](images/6.png)
 
-* Click Open Folder
+* 8: Click Open Folder
 
 ![1](images/7.png)
