@@ -76,4 +76,12 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/10.png)
 
+* **`16`**: Run the following command to install firebase tools globally:
+
+```json
+npm -g install firebase-tools
+```
+
+![1](images/11.png)
+
 
