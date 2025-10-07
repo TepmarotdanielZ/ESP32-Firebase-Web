@@ -6,7 +6,9 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ## II. INSTALLING REQUIRED SOFTWARE
 
-* **`1`**:Go to [nodejs.org](https://nodejs.org/en) and download the LTS version.
+**1. INSTALLING Node.js**
+
+* **`1`**: Go to [nodejs.org](https://nodejs.org/en) and download the LTS version.
 
 ![1](images/63.png)
 
@@ -22,12 +24,6 @@ This guide will teach you how to create a simple Firebase Web App to control and
 * **`5`**:  Terminal window will open to install the Additional Tools for Node.js. When it’s done, click any key to continue. When it’s finished, you can close the Terminal Window.
 
 ![1](images/65.png)
-
-
-
-**1. INSTALLING Node.js**
-
-
 
 **2. VISUAL STUDIO CODE**
 
