@@ -128,3 +128,16 @@ firebase login
 * **`24`**: After this, Firebase CLI login should be successful. You can close the browser window.
 
 ![1](images/18.png)
+
+**2. INITIALIZING WEB APP FIREBASE PROJECT**
+
+* **`25`**: After successfully logging in, run the following command to start a Firebase project directory in the current folder.
+
+```cpp
+firebase init
+```
+
+* **`26`**: You’ll be asked if you want to initialize a Firebase project in the current directory. Enter Y and hit Enter.
+
+![1](images/19.png)
+
