@@ -36,3 +36,9 @@ This guide will teach you how to create a simple Firebase Web App to control and
 * **`9`**: Click Open Folder
 
 ![1](images/7.png)
+
+* **`10`**: Selected DATA (E)
+* **`11`**: Selected ESP32_FIREBASE Web App
+* **`12`**: Click Open
+
+![1](images/8.png)
