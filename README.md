@@ -37,8 +37,13 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/7.png)
 
-* **`10`**: Selected DATA (E)
+* **`10`**: Seleced DATA (E)
 * **`11`**: Selected ESP32_FIREBASE Web App
 * **`12`**: Click Open
 
 ![1](images/8.png)
+
+* **`13`**: The project folder named **`FIREBASE WEB APP`** opened in VS Code.
+* **`14`**: The **`New Terminal`** option to open a terminal for running commands. Shortcut: **`Ctrl + Shift + ~`**
+
+![1](images/9.png)
