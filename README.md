@@ -15,3 +15,8 @@ This guide will teach you how to create a simple Firebase Web App to control and
 * then click **`Next >`** (box 3) to proceed with installing Visual Studio Code.
 
 ![1](images/2.png)
+
+* The step to select additional tasks — check options like **`Create a desktop icon`** and **`Add to PATH`**, then click **`Next >`** to continue the Visual Studio Code installation.
+
+![1](images/3.png)
+
