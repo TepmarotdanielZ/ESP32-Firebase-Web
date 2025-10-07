@@ -65,6 +65,8 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/8.png)
 
+**4. INSTALLING FIREBASE TOOLS (VS CODE)**
+
 * **`13`**: The project folder named **`FIREBASE WEB APP`** opened in VS Code.
 * **`14`**: The **`New Terminal`** option to open a terminal for running commands. Shortcut: **`Ctrl + Shift + ~`**
 
