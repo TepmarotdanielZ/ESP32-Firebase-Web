@@ -156,4 +156,12 @@ firebase init
 ![1](images/22.png)
 
 
+* **`30`**: the image shows a section of the terminal where Firebase CLI is prompting you to select features for your project setup. Specifically, it includes:
+  * A confirmation: "Are you ready to proceed? Yes"
+  * A question: "Which Firebase features do you want to set up for this directory?"
+  * Selected features:
+    * Hosting (for Firebase Hosting setup)
+    * Realtime Database (including security rules configuration and optional instance provisioning)
+  * In short, this section confirms that you're initializing a Firebase project with Hosting and Realtime Database features selected.
 
+![1](images/23.png)
