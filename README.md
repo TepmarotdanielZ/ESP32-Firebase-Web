@@ -78,7 +78,7 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 * **`16`**: Run the following command to install firebase tools globally:
 
-```py
+```cp
 npm -g install firebase-tools
 ```
 
@@ -90,7 +90,7 @@ npm -g install firebase-tools
 
 * **`18`**: Test if Firebase was successfully installed with the following command:
 
-```py
+```cpp
 firebase --version
 ```
 
@@ -102,4 +102,18 @@ firebase --version
 ## III. SETTING UP A FIREBASE WEB APP PROJECT (VS CODE)
 Before creating the Firebase Web App, you need to set up a Firebase Project on VS Code. These are the steps:
 
-**1. **
+**1. FIREBASE LOGIN**
+
+* **`19`**: The firebase login command showing that the user is already logged in to Firebase.
+
+```cpp
+firebase login
+```
+
+![1](images/14.png)
+
+* **`20`**: The command **`firebase login`**, which is used to sign in to your Firebase account through the CLI.
+* **`21`**: The response **`No`**, meaning the user chose not to allow Firebase to collect CLI usage and error reporting information.
+
+![1](images/15.png)
+
