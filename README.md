@@ -45,6 +45,8 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/4.png)
 
+**3. CREATING A PROJECT FOLDER**
+
 * **`7`**: Select the **`FIREBASE WEB APP`** folder to open your Firebase project directory.
 
 ![1](images/5.png)
