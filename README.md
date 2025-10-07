@@ -94,6 +94,12 @@ npm -g install firebase-tools
 firebase --version
 ```
 
+* It should return the Firebase version currently installed.
+
 ![1](images/13.png)
 
 
+## III. SETTING UP A FIREBASE WEB APP PROJECT (VS CODE)
+Before creating the Firebase Web App, you need to set up a Firebase Project on VS Code. These are the steps:
+
+**1. **
