@@ -12,7 +12,7 @@ This guide will teach you how to create a simple Firebase Web App to control and
 ![1](images/1.png)
 
 * **`2`**: The steps to continue the installation — first, select **`I accept the agreement`** 
-***`3`**: Then click **`Next >`**  to proceed with installing Visual Studio Code.
+* **`3`**: Then click **`Next >`**  to proceed with installing Visual Studio Code.
 
 ![1](images/2.png)
 
