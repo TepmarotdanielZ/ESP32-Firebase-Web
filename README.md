@@ -5,7 +5,31 @@ This guide will teach you how to create a simple Firebase Web App to control and
 ![1](images/62.png)
 
 ## II. INSTALLING REQUIRED SOFTWARE
-**1. VISUAL STUDIO CODE**
+
+* **`1`**:Go to [nodejs.org](https://nodejs.org/en) and download the LTS version.
+
+![1](images/63.png)
+
+* **`2`**: Run the executable file and follow the installation process.
+* **`3`**: Enable automatically install all the necessary tools.
+
+![1](images/64.png)
+
+* **`4`**: When it’s done, click Finish.
+
+![1](images/64.png)
+
+* **`5`**:  Terminal window will open to install the Additional Tools for Node.js. When it’s done, click any key to continue. When it’s finished, you can close the Terminal Window.
+
+![1](images/65.png)
+
+
+
+**1. INSTALLING Node.js**
+
+
+
+**2. VISUAL STUDIO CODE**
 
 * **`1`**:**`Download for Windows`** button — click here to start downloading Visual Studio Code for your Windows system.
 
@@ -47,3 +71,9 @@ This guide will teach you how to create a simple Firebase Web App to control and
 * **`14`**: The **`New Terminal`** option to open a terminal for running commands. Shortcut: **`Ctrl + Shift + ~`**
 
 ![1](images/9.png)
+
+* **`15`**: The terminal is open in the **`FIREBASE WEB APP`** project folder, ready for commands.
+
+![1](images/10.png)
+
+
