@@ -32,3 +32,6 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 ![1](images/6.png)
 
+* Click Open Folder
+
+![1](images/7.png)
