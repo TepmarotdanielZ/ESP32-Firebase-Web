@@ -117,3 +117,14 @@ firebase login
 
 ![1](images/15.png)
 
+* **`22`**: After this, it will pop up a new window on your browser to login into your firebase account.
+  
+![1](images/16.png)
+
+* **`23`**: Allow Firebase CLI to access your google account.
+
+![1](images/17.png)
+
+* **`24`**: After this, Firebase CLI login should be successful. You can close the browser window.
+
+![1](images/18.png)
