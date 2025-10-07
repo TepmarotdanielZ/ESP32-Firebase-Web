@@ -78,10 +78,15 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 * **`16`**: Run the following command to install firebase tools globally:
 
-```json
+```c
 npm -g install firebase-tools
 ```
 
 ![1](images/11.png)
+
+* **`17`**: The terminal output shows the command **`npm -g install firebase-tools`** successfully executed, indicating that Firebase Tools have been installed (you can ignore any warnings about deprecated libraries).
+
+![1](images/12.png)
+
 
 
