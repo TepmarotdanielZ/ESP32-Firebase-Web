@@ -78,7 +78,7 @@ This guide will teach you how to create a simple Firebase Web App to control and
 
 * **`16`**: Run the following command to install firebase tools globally:
 
-```c
+```py
 npm -g install firebase-tools
 ```
 
@@ -88,5 +88,12 @@ npm -g install firebase-tools
 
 ![1](images/12.png)
 
+* **`18`**: Test if Firebase was successfully installed with the following command:
+
+```py
+firebase --version
+```
+
+![1](images/13.png)
 
 
