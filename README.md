@@ -276,18 +276,18 @@ Let’s get started!
 
 Follow the next instructions to create a new project on Firebase.
 
-**1.** Go to [Firebase](https://firebase.google.com/) and sign in using a Google Account.
+  **1.** Go to [Firebase](https://firebase.google.com/) and sign in using a Google Account.
 
-**2.** Click Get Started, and then Add project to create a new project.
+  **2.** Click Get Started, and then Add project to create a new project.
 
 ![1](images/36.png)
 
-![1](images/47.png)
+![1](images/37.png)
 
 
-**3.** Give a name to your project, for example: **`FIREBASE WEB APP`**.
+  **3.** Give a name to your project, for example: **`FIREBASE WEB APP`**.
 
-![1](images/.png)
+![1](images/38.png)
 
 
 
