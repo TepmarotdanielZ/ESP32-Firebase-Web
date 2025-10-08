@@ -289,5 +289,6 @@ Follow the next instructions to create a new project on Firebase.
 
 ![1](images/38.png)
 
+  **4.** Enable Google Analytics for this project as it is not needed and click Create project.
 
-
+![1](images/39.png)
