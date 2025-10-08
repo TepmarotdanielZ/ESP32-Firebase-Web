@@ -280,13 +280,14 @@ Follow the next instructions to create a new project on Firebase.
 
 **2.** Click Get Started, and then Add project to create a new project.
 
-![1](images/44.png)
+![1](images/36.png)
 
-![1](images/45.png)
+![1](images/47.png)
+
 
 **3.** Give a name to your project, for example: **`FIREBASE WEB APP`**.
 
-![1](images/46.png)
+![1](images/.png)
 
 
 
