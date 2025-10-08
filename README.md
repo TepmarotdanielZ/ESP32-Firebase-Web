@@ -405,3 +405,27 @@ You need to set authentication methods for your app.
 * "Sign-in providers section showing **`Email/Password`** provider **`enabled`** for authentication."
 
 ![image](https://github.com/user-attachments/assets/4d619979-efce-453c-af00-057dbdcea278)
+
+## VIII. CREATING A REAL-TIME DATABASE
+
+The next step is creating a Realtime Database for your project. Follow the next steps to create the database.
+
+**`38.`** Selection of the "**`Realtime Database`**" option from the Firebase console menu, used to manage real-time data storage and synchronization.
+
+**`39.`** Button labeled "**`Create Database`**" which initiates the process of setting up a new Firebase Realtime Database.
+
+![1](images/57.png)
+
+**`40.`** The "**`Create Database`**" button, which is clicked to initiate setting up a new Firebase Realtime Database.
+
+**`41.`** The "**`Realtime Database location`**" dropdown menu, where the user selects the desired region for storing the database, currently set to "**`Singapore (asia-southeast1)`**."
+
+![1](images/58.png)
+
+**`42.`**  The option to "**`Start in test mode`**," which allows the database to be open by default with open access for testing purposes.
+
+**`43.`** The security rules code snippet that defines the database's read and write permissions during test mode, allowing access for 30 days.
+
+**`44.`** The "**`Enable`**" button to activate the security rules, applying the configured permissions to the Firebase Realtime Database
+
+![1](images/59.png)
