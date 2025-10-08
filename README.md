@@ -293,16 +293,16 @@ Follow the next instructions to create a new project on Firebase.
 
 ![1](images/39.png)
 
-  **5.** Choose or create a Google Analytics account to link with your Firebase project and start tracking your app's performance seamlessly.
+**`7.`** Choose or create a Google Analytics account to link with your Firebase project and start tracking your app's performance seamlessly.
 
 ![1](images/40.png)
 
-  **6.** Enter a name for your Google Analytics account, such as **`FIREBASE WEB APP`**' and click **`Save`** to link it with your Firebase project.
+**`8.`** Enter a name for your Google Analytics account, such as **`FIREBASE WEB APP`**' and click **`Save`** to link it with your Firebase project.
 
 ![1](images/41.png)
 
-* **9.**  Select your preferred Google Analytics location, such as **`Singapore`**, from the dropdown menu.
-* **10.** Check the box to accept the Google Analytics terms and conditions.
-* **11.** Click the **`Create project`** button to finalize the setup.
+**`9.`**  Select your preferred Google Analytics location, such as **`Singapore`**, from the dropdown menu.
+**`10.`** Check the box to accept the Google Analytics terms and conditions.
+**`11.`** Click the **`Create project`** button to finalize the setup.
 
 ![1](images/42.png)
