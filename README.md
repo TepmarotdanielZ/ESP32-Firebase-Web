@@ -320,6 +320,37 @@ Follow the next instructions to create a new project on Firebase.
 
 **`13.`** Click the code icon to add Firebase SDK to your app.
 
-![1](images/42.png)
+![1](images/44.png)
 
+**`14.`** Enter your app nickname, such as "**`FIREBASE WEB APP`**."
 
+**`15.`** Check the box to also set up Firebase Hosting for your app, then select the hosting site from the dropdown menu.
+
+**`16.`** Click the "**`Register app`**" button to complete the registration process.
+
+![1](images/45.png)
+
+**`17.`** Run the command npm **`install firebase`** in your terminal to install the Firebase SDK.
+
+**`18.`** Copy the **`firebaseConfig`** object, which includes your project's configuration details like **`apiKey`**, **`authDomain`**, **`projectId`**, etc.
+Note: In your case, the authDomain matches the one shown in the Terminal window after setting up your Firebase project.
+
+**`19.`** Click the "**`Next`**" button to proceed to the next step.
+
+![1](images/46.png)
+
+**`20.`** Run the command **`npm install -g firebase-tools`** in your terminal to install the Firebase CLI tools.
+
+**`21.`** Click the "**`Next`**" button to proceed to the next step.
+
+![1](images/47.png)
+
+**`22.`** Type the command **`$ firebase login`** in the terminal to log into your Firebase accoun
+
+**`23.`** Once logged in, type **`$ firebase init`** to initialize your Firebase project.
+
+**`24.`** When ready to **`deploy`**, type **`$ firebase deploy`** to upload your app to Firebase hosting.
+
+**`25.`** Click the "Continue to console" button to proceed to your Firebase project dashboard.
+
+![1](images/48.png)
