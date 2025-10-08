@@ -316,3 +316,10 @@ Follow the next instructions to create a new project on Firebase.
 * You’ll be redirected to your Project console page.
 
 ![image](https://github.com/user-attachments/assets/5124e440-ff97-4523-9c71-85f4891950ca)
+
+
+**`13.`** Click the code icon to add Firebase SDK to your app.
+
+![1](images/42.png)
+
+
