@@ -309,6 +309,10 @@ Follow the next instructions to create a new project on Firebase.
 
 ![1](images/42.png)
 
-**`12.`** It will take a few seconds setting up your project. Then, click Continue when it’s ready.
+**`12.`** It will take a few seconds setting up your project. Then, click **`Continue`** when it’s ready.
 
 ![1](images/43.png)
+
+* You’ll be redirected to your Project console page.
+
+![image](https://github.com/user-attachments/assets/5124e440-ff97-4523-9c71-85f4891950ca)
