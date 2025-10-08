@@ -308,3 +308,7 @@ Follow the next instructions to create a new project on Firebase.
 **`11.`** Click the **`Create project`** button to finalize the setup.
 
 ![1](images/42.png)
+
+**`12.`** It will take a few seconds setting up your project. Then, click Continue when it’s ready.
+
+![1](images/43.png)
