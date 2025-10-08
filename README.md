@@ -428,4 +428,32 @@ The next step is creating a Realtime Database for your project. Follow the next 
 
 **`44.`** The "**`Enable`**" button to activate the security rules, applying the configured permissions to the Firebase Realtime Database
 
+* Set up security rules for your database. For testing purposes, select Start in test mode. In later tutorials you’ll learn how to secure your database using database rules.
+
 ![1](images/59.png)
+
+**`45.`** The "**`Realtime Database`**" option selected in the Firebase console, which allows you to view and manage your real-time database settings and data.
+
+**`46.`** The "**`Data`**" tab within the Realtime Database section, providing access to the database's data structure and content.
+
+**`47.`** The URL link to the live instance of the Firebase Realtime Database, which can be shared or used to access the database directly.
+
+* Your database is now created. You need to copy and save the database URL—highlighted in the following image—because you’ll need it later in your ESP32 code.
+
+![1](images/60.png)
+
+The Realtime Database is all set. Now, you also need to get your project API key.
+
+## IX. GET THE PROJECT API KEY
+
+**1.** To get your project’s API key, on the left sidebar click on **Project Settings**.
+
+![image](https://github.com/user-attachments/assets/87f75a29-af7e-4426-9484-a20718254df4)
+
+
+**2.** Copy the API Key to a safe place because you’ll need it later.
+
+![image](https://github.com/user-attachments/assets/67a056e6-c7a1-4bca-aae7-b330de8a404c)
+
+
+Now, you have everything ready to interface the ESP32 with the database.
