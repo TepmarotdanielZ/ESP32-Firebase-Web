@@ -302,7 +302,9 @@ Follow the next instructions to create a new project on Firebase.
 ![1](images/41.png)
 
 **`9.`**  Select your preferred Google Analytics location, such as **`Singapore`**, from the dropdown menu.
+
 **`10.`** Check the box to accept the Google Analytics terms and conditions.
+
 **`11.`** Click the **`Create project`** button to finalize the setup.
 
 ![1](images/42.png)
