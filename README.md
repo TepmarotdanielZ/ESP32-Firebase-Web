@@ -354,3 +354,19 @@ Note: In your case, the authDomain matches the one shown in the Terminal window 
 **`25.`** Click the "Continue to console" button to proceed to your Firebase project dashboard.
 
 ![1](images/48.png)
+
+## VII. SET AUTHENTICATION METHODS
+
+You need to set authentication methods for your app.
+
+“Most apps need to know the identity of a user. In other words, it takes care of logging in and identify the users (in this case, the ESP32). Knowing a user’s identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user’s devices.” To learn more about the authentication methods, you can [read the documentation](https://firebase.google.com/docs/auth).
+
+**`26.`** Click on "**`Authentication`**" in the Firebase console to set up user sign-in options for your app.
+
+![1](images/49.png)
+
+**`27.`** Click on "**`Authentication`**" in the Firebase console sidebar to access authentication settings
+
+**`28.`** Click the "**`Get started`**" button to begin setting up user authentication for your project.
+
+![1](images/50.png)
