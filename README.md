@@ -370,3 +370,14 @@ You need to set authentication methods for your app.
 **`28.`** Click the "**`Get started`**" button to begin setting up user authentication for your project.
 
 ![1](images/50.png)
+
+
+**`29.`** Select "**`Email/Password`**" as the sign-in method to enable users to authenticate using their email address and password.
+
+![1](images/51.png)
+
+**`30.`** Toggle the "**`Enable`**" switch to activate email/password sign-in authentication.
+
+**`31.`** Click the "**`Save`**" button to apply and confirm the changes.
+
+![1](images/52.png)
