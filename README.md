@@ -229,14 +229,10 @@ You can access that web page from anywhere in the world. Now, the idea is to cha
 
 This guide will get you started quickly with Firebase using the ESP32 board. Firebase is Google’s mobile application development platform that includes many services to manage data from IOS, Android, or web applications. You’ll create a Firebase project with a realtime database (RTDB), and you’ll learn how to store and read values from the database with your ESP32.
 
-![1](images/png)
-
 
 In a later tutorial, you’ll learn how to create a Firebase web app that you can access from anywhere to monitor and control your ESP32 using Firebase’s real-time database:
 
 **1. WHAT IS FIREBASE?**
-
-![1](images/png)
 
 ![Copy of Copy of TEMPLATE](https://github.com/user-attachments/assets/bfb16ccd-1dad-4202-9852-3be6f8773dfc)
 
@@ -260,7 +256,7 @@ In a later tutorial, we’ll create a web app using Firebase that will control t
 
 ![Copy of Copy of TEMPLATE (2)](https://github.com/user-attachments/assets/2cf82e1d-a831-4995-828a-8af3db27e388)
 
-## 2. PROJECT OVERVIEW
+## V. PROJECT OVERVIEW
 
 In this tutorial, you’ll learn how to create a Firebase project with a realtime database and store and read data from the database using the ESP32.
 
@@ -274,6 +270,23 @@ To follow this project, first, you need to set up a Firebase project and create 
 
 Let’s get started!
 
+
+## VI. SET UP A FIREBASE ACCOUNT AND CREATE A NEW PROJECT
+**1. CREATE A NEW PROJECT**
+
+Follow the next instructions to create a new project on Firebase.
+
+**1.** Go to [Firebase](https://firebase.google.com/) and sign in using a Google Account.
+
+**2.** Click Get Started, and then Add project to create a new project.
+
+![1](images/44.png)
+
+![1](images/45.png)
+
+**3.** Give a name to your project, for example: **`FIREBASE WEB APP`**.
+
+![1](images/46.png)
 
 
 
