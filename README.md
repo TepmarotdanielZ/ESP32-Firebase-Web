@@ -381,3 +381,27 @@ You need to set authentication methods for your app.
 **`31.`** Click the "**`Save`**" button to apply and confirm the changes.
 
 ![1](images/52.png)
+
+**`32.`** The "**`Email/Password`**" sign-in provider is enabled, allowing users to authenticate using their email and password.
+
+![1](images/53.png)
+
+**`33.`** Click on the "**`Users`**" tab to manage user authentication settings.
+
+**`34.`** Click the "**`Add user`**" button to add a new user to the project.
+
+![1](images/54.png)
+
+**`35.`** Enter the **`email`** and **`password`** for the new user in the respective fields.
+
+**`36.`** Click the "**`Add user`**" button to create and add the new user to the project.
+
+![1](images/55.png)
+
+**`37.`** This section displays the list of registered users, showing their email addresses, creation date, and user UID.
+
+![1](images/56.png)
+
+* "Sign-in providers section showing **`Email/Password`** provider **`enabled`** for authentication."
+
+![image](https://github.com/user-attachments/assets/4d619979-efce-453c-af00-057dbdcea278)
